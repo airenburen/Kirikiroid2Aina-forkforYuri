@@ -4,6 +4,7 @@
 
 ☘️ A krikiroid2 project matained by Yurisizuku.  
 Support the newer android device and more format.  
+This warehouse fork is from Yuri edition.-----by Aina
 
 New features :  
 
